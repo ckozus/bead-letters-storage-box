@@ -1,0 +1,64 @@
+{
+    "parameterSets": {
+        "design default values": {
+            "bead_depth": "6",
+            "bead_height": "6",
+            "bead_width": "6",
+            "label_engraving_depth": "0.75",
+            "letters": "14",
+            "letters_list": "[\"A\", \"B\", \"C\", \"D\", \"E\", \"F\", \"G\", \"H\", \"I\", \"J\", \"K\", \"L\", \"M\", \"N\"]",
+            "number_of_beads": "20",
+            "storage_margin": "0.25",
+            "walls_width": "2"
+        },
+        "Cuentitas cuadradas parte 2": {
+            "bead_depth": "6",
+            "bead_height": "6",
+            "bead_width": "6",
+            "label_engraving_depth": "0.75",
+            "letters": "14",
+            "letters_list": "[\"Ñ\", \"O\", \"P\", \"Q\", \"R\", \"S\", \"T\", \"U\", \"V\", \"W\", \"X\", \"Y\", \"Z\", \"+\"]",
+            "number_of_beads": "20",
+            "storage_margin": "0.25",
+            "walls_width": "2"
+        },
+        "Cuentitas boton parte 1": {
+            "bead_depth": "4",
+            "bead_height": "7",
+            "bead_width": "7",
+            "cutout": "false",
+            "label_engraving_depth": "0.75",
+            "letters": "14",
+            "letters_list": "[\"A\", \"B\", \"C\", \"D\", \"E\", \"F\", \"G\", \"H\", \"I\", \"J\", \"K\", \"L\", \"M\", \"N\"]",
+            "number_of_beads": "20",
+            "storage_margin": "0.25",
+            "walls_width": "2"
+        },
+        "Cuentitas boton parte 2": {
+            "bead_depth": "4",
+            "bead_height": "7",
+            "bead_width": "7",
+            "cutout": "false",
+            "label_engraving_depth": "0.75",
+            "letters": "14",
+            "letters_list": "[\"Ñ\", \"O\", \"P\", \"Q\", \"R\", \"S\", \"T\", \"U\", \"V\", \"W\", \"X\", \"Y\", \"Z\", \"+\"]",
+            "number_of_beads": "20",
+            "storage_margin": "0.25",
+            "walls_width": "2"
+        },
+        "Cuentitas cuadradas parte 1": {
+            "bead_depth": "6",
+            "bead_height": "6",
+            "bead_width": "6",
+            "cutout": "false",
+            "label_engraving_depth": "0.75",
+            "letters": "14",
+            "letters_list": "[\"A\", \"B\", \"C\", \"D\", \"E\", \"F\", \"G\", \"H\", \"I\", \"J\", \"K\", \"L\", \"M\", \"N\"]",
+            "number_of_beads": "20",
+            "storage_margin": "0.25",
+            "walls_width": "2"
+        }
+    },
+    "fileFormatVersion": "1",
+    "parameterSets": ""
+}
