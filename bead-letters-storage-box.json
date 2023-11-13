@@ -1,16 +1,5 @@
 {
     "parameterSets": {
-        "design default values": {
-            "bead_depth": "6",
-            "bead_height": "6",
-            "bead_width": "6",
-            "label_engraving_depth": "0.75",
-            "letters": "14",
-            "letters_list": "[\"A\", \"B\", \"C\", \"D\", \"E\", \"F\", \"G\", \"H\", \"I\", \"J\", \"K\", \"L\", \"M\", \"N\"]",
-            "number_of_beads": "20",
-            "storage_margin": "0.25",
-            "walls_width": "2"
-        },
         "Cuentitas cuadradas parte 2": {
             "bead_depth": "6",
             "bead_height": "6",
@@ -46,15 +35,31 @@
             "storage_margin": "0.25",
             "walls_width": "2"
         },
+        "Print test button beads": {
+            "base_cutout": "false",
+            "bead_depth": "4",
+            "bead_height": "7",
+            "bead_width": "7",
+            "double_separator_cover": "true",
+            "label_engraving_depth": "0.75",
+            "letters": "2",
+            "letters_list": "[\"A\", \"B\", \"C\", \"D\", \"E\", \"F\", \"G\", \"H\", \"I\", \"J\", \"K\", \"L\", \"M\", \"N\"]",
+            "number_of_beads": "4",
+            "separator_rake": "true",
+            "storage_margin": "0.25",
+            "walls_width": "2"
+        },
         "Cuentitas cuadradas parte 1": {
+            "base_cutout": "false",
             "bead_depth": "6",
             "bead_height": "6",
             "bead_width": "6",
-            "cutout": "false",
+            "double_separator_cover": "false",
             "label_engraving_depth": "0.75",
             "letters": "14",
             "letters_list": "[\"A\", \"B\", \"C\", \"D\", \"E\", \"F\", \"G\", \"H\", \"I\", \"J\", \"K\", \"L\", \"M\", \"N\"]",
             "number_of_beads": "20",
+            "separator_rake": "false",
             "storage_margin": "0.25",
             "walls_width": "2"
         }
